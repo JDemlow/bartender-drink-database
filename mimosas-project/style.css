@@ -222,3 +222,17 @@ input {
     margin-left: 20px;
   }
 }
+
+@media (max-width: 468px) {
+  .nav li a {
+    margin-left: 15px;
+  }
+
+  .logo {
+    display: none;
+  }
+
+  .footer .container li {
+    margin-left: 0;
+  }
+}
