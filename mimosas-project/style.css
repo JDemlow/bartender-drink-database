@@ -18,6 +18,8 @@ body {
 img {
   max-width: 100%;
   padding: 20px;
+  margin-top: 3.5em;
+  margin-bottom: 1.5em;
 }
 
 h1,
@@ -113,7 +115,13 @@ ul {
   margin: 20px 10px;
   box-shadow: 0 3px 5px rgba(0, 0, 0, 0.6);
   padding: 15px 20px;
+  max-height: 400px;
 }
+
+/* .box .instructions {
+  font-size: 14px;
+  max-height: 300px;
+} */
 
 .box i {
   margin-right: 10px;
@@ -121,6 +129,12 @@ ul {
 
 input {
   margin-bottom: 5px;
+}
+
+/* Hidden */
+
+.hidden {
+  display: none;
 }
 
 /* BUTTON STYLES */
@@ -185,10 +199,11 @@ input {
 /* Footer */
 
 .footer {
+  display: flex;
   background: #333;
   color: #fff;
-  height: 300px;
-  display: flex;
+  height: 100px;
+  margin-top: 15em;
 }
 
 /* MEDIA QUERIES */
@@ -230,6 +245,10 @@ input {
 
   .logo {
     display: none;
+  }
+
+  .footer {
+    height: 200px;
   }
 
   .footer .container li {
