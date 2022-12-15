@@ -30,6 +30,8 @@ function getDrink() {
       let video = data.drinks[0].strVideo;
       let noVideo = "";
       let embededVideo = video.replace("watch?v=", "embed/");
+      // Unload the previous video and load the new video
+      document.querySelector("iframe").src = "";
       document.querySelector("iframe").src = embededVideo;
       if (video === "") {
         let video = noVideo;
