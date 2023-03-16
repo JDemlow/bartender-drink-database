@@ -1,34 +1,33 @@
-# My Awesome Project
-Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
+# Mimosas Bartender Database
+This application was built for a local restaurant here in Denver. The idea is for every bartender to have a single source for drink recipes (so as to stay consistent), and more importantly, having the same pour for every drink.
 
-**Link to project:** http://recruiters-love-seeing-live-demos.com/
+**Link to project:** https://mimosas-drink-database.netlify.app/
 
 ![mimosas-readme](https://user-images.githubusercontent.com/14945785/225492908-d1df5965-9fcf-42ac-9219-6e3984a12784.gif)
 
 
 ## How It's Made:
 
-**Tech used:** HTML, CSS, JavaScript, Framework of choice
+**Tech used:** HTML, CSS, JavaScript, Fetch API
 
-Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write *something*. If you don't have too much experience on your resume working on the front end that's totally fine. This is where you can really show off your passion and make up for that ten fold.
+This application was created using flexbox, in order to make the site work on all screen sizes. Because the app is intended to be used by bartenders while working, it was conceived with a "mobile first" design. JavaScript is used to make a fetch to the api to retrieve the data. The app is extremely lightweight to ensure it will work in busy environments where wifi and cell service may be spotty.
 
 ## Optimizations
-*(optional)*
 
-You don't have to include this section but interviewers *love* that you can not only deliver a final product that looks great but also functions efficiently. Did you write something then refactor it later and the result was 5x faster than the original implementation? Did you cache your assets? Things that you write in this section are **GREAT** to bring up in interviews and you can use this section as reference when studying for technical interviews!
+After initial delivery, it was requested that I make the main button much larger. This is to facilitate a bartender being able to use the app with one hand while shaking a drink in the other.  
 
 ## Lessons Learned:
 
-No matter what your experience level, being an engineer means continuously learning. Every time you build something you always have those *whoa this is awesome* or *fuck yeah I did it!* moments. This is where you should share those moments! Recruiters and interviewers love to see that you're self-aware and passionate about growing.
+It was very informative to have client feedback on this project. I had made particular design decisions in order to achieve a certain look. However, the feedback made me realize that application functionality would be much more important in practice, and my client was much happier having something lightweight that conformed to their specifications. 
 
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
 
-**Palettable:** https://github.com/alecortega/palettable
+**Minerva Tattoo Studio:** https://jamesdemlow.com/minerva.html
 
-**Twitter Battle:** https://github.com/alecortega/twitter-battle
+**Alyssa's Dog Walking:** https://jamesdemlow.com/dogwalker.html
 
-**Patch Panel:** https://github.com/alecortega/patch-panel
+**Vipassana Yoga:** https://jamesdemlow.com/vipassana.html
 
 
 
