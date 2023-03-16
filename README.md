@@ -3,7 +3,8 @@ Write a short sentence or two about this project and what it does. Be sure to in
 
 **Link to project:** http://recruiters-love-seeing-live-demos.com/
 
-![alt tag](http://placekitten.com/1200/650)
+![mimosas-readme](https://user-images.githubusercontent.com/14945785/225492908-d1df5965-9fcf-42ac-9219-6e3984a12784.gif)
+
 
 ## How It's Made:
 
