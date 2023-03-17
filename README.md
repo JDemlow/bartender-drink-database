@@ -21,7 +21,7 @@ After initial delivery, it was requested that I make the main button much larger
 It was very informative to have client feedback on this project. I had made particular design decisions in order to achieve a certain look. However, the feedback made me realize that application functionality would be much more important in practice, and my client was much happier having something lightweight that conformed to their specifications. 
 
 ## Examples:
-Take a look at these couple examples that I have in my own portfolio:
+Take a look at some projects that I have in my own portfolio:
 
 **Minerva Tattoo Studio:** https://jamesdemlow.com/minerva.html
 
