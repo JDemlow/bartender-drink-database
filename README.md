@@ -10,7 +10,7 @@ This application was built for a local restaurant here in Denver. The idea is fo
 
 **Tech used:** HTML, CSS, JavaScript, Fetch API
 
-This application was created using flexbox, in order to make the site work on all screen sizes. Because the app is intended to be used by bartenders while working, it was conceived with a "mobile first" design. JavaScript is used to make a fetch to the api to retrieve the data. The app is extremely lightweight to ensure it will work in busy environments where wifi and cell service may be spotty.
+This application was created using flexbox, in order to make the site responsive on all screen sizes. Because the app is intended to be used by bartenders while working, it was conceived with a "mobile first" design. JavaScript is used to make a fetch to the api to retrieve the data. The app is extremely lightweight to ensure it will work in busy environments where wifi and cell service may be spotty.
 
 ## Optimizations
 
